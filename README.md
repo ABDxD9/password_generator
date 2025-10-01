@@ -26,6 +26,8 @@ It also supports saving generated passwords (with purpose & account name) to a t
 
 ```bash
 pip install pyperclip
+pip install scripts
+pip install random
 ```
 
 ---
@@ -35,7 +37,7 @@ pip install pyperclip
 Run the script:
 
 ```bash
-python password_generator.py
+ passgenerator.py
 ```
 
 Example flow:
